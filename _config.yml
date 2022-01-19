@@ -85,6 +85,4 @@ exclude:
   - README.md
   - CNAME
 
-collections:
-  - law
-  - test
+category_list: [law, test]
